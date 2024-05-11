@@ -7,7 +7,7 @@ I am a coputer engieering major at CSUF and I plan on graduating in 2028
 
 
 Lab 1
-   Lab 1 I found fun because it was the first time ever coding, and I was excited to start learning. Also learning how to make a github and a token on github. Also learned how to format. And the partner I worked with helps me understand.
+   Lab 1 I found this lab fun because it was the first time ever coding, and I was excited to start learning. Also learning how to make a github and a token on github. Also learned how to format. And the partner I worked with helps me understand.
 
 
 Lab 7
