@@ -1,7 +1,7 @@
 
 # Yesenia Lara's Portfolio
 
-I am a coputer engieering major at CSUF and I plan on graduating in 2028
+I am a computer engieering major at CSUF and I plan on graduating in 2028
 
 ## Favortie CPSC 120L Labs
 
